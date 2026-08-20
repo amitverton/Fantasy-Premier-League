@@ -9,9 +9,16 @@ Never include or recommend any Liverpool player, under any circumstances.
 This is non-negotiable and applies regardless of form, fixtures, or value.
 
 Before recommending any player, verify their current club — transfers move
-players in and out of Liverpool every window. As of August 2026, Liverpool's
-notable FPL assets to avoid include: Florian Wirtz, Alexander Isak,
-Dominik Szoboszlai, Virgil van Dijk, Milos Kerkez, Alisson, Gakpo, Ekitike.
+players in and out of Liverpool every window. Verified 2026-08-20, the full
+banned list: Wirtz, Isak, Szoboszlai, Gravenberch, Mac Allister, Jones,
+Elliott, Chiesa, Ekitike, Gakpo, Van Dijk, Kerkez, Bradley, Tsimikas, Leoni,
+Jacquet (new), Araujo (new, loan), Victor Muñoz (new — NOT Palace's Daniel
+Muñoz), Alisson, Mamardashvili.
+
+NO LONGER at Liverpool (pickable if in the PL): Salah (Trabzonspor),
+Robertson (now Tottenham), Konaté (Real Madrid), Luis Díaz (left PL 2025).
+
+Full verified squad-change log: data/2026-27/squad_updates_2026-27.md.
 This list goes stale; always re-verify against current-season sources.
 
 ## Week-specific notes (temporary, check dates)
