@@ -13,3 +13,9 @@ players in and out of Liverpool every window. As of August 2026, Liverpool's
 notable FPL assets to avoid include: Florian Wirtz, Alexander Isak,
 Dominik Szoboszlai, Virgil van Dijk, Milos Kerkez, Alisson, Gakpo, Ekitike.
 This list goes stale; always re-verify against current-season sources.
+
+## Week-specific notes (temporary, check dates)
+
+- **GW1 2026/27 (deadline Fri 21 Aug 2026):** No Aston Villa players this week
+  (user request — includes Watkins, Rogers, Cash, Martínez, Konsa, etc.).
+  Villa players are allowed again from GW2 onwards unless the user says otherwise.
