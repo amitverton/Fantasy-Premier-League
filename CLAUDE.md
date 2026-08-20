@@ -13,7 +13,11 @@ players in and out of Liverpool every window. Verified 2026-08-20, the full
 banned list: Wirtz, Isak, Szoboszlai, Gravenberch, Mac Allister, Jones,
 Elliott, Chiesa, Ekitike, Gakpo, Van Dijk, Kerkez, Bradley, Tsimikas, Leoni,
 Jacquet (new), Araujo (new, loan), Victor Muñoz (new — NOT Palace's Daniel
-Muñoz), Alisson, Mamardashvili.
+Muñoz), Frimpong, Ngumoha, Alisson, Mamardashvili.
+
+Authoritative check: the FPL-Core-Insights dataset (see
+data/2026-27/squad_updates_2026-27.md, 'Live data source') lists every
+player's current club — filter players.csv/teams.csv for Liverpool.
 
 NO LONGER at Liverpool (pickable if in the PL): Salah (Trabzonspor),
 Robertson (now Tottenham), Konaté (Real Madrid), Luis Díaz (left PL 2025).

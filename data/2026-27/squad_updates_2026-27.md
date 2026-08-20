@@ -51,8 +51,30 @@ Manager: Andoni Iraola (from Bournemouth).
 - Man City: Haaland (£15.5m), Gvardiol (£5.5m)
 - Chelsea: Palmer (£9.5m), João Pedro (£7.5m)
 
-## Key 2026/27 prices confirmed so far
+## Key 2026/27 prices (verified vs FPL-Core-Insights, 2026-08-20)
 
 Haaland £15.5 · Bruno £12.0 · Palmer £9.5 · Saka £9.5 · Isak £9.0 (banned) ·
-Semenyo £8.5 · Mbeumo £8.0 · Cunha £8.0 · Rogers £7.5 · João Pedro £7.5 ·
-VVD £6.5 (banned) · Raya £6.0 · Gvardiol £5.5 · Kerkez £5.5 (banned)
+Semenyo £8.5 · Mbeumo £8.0 · Cunha £8.0 · **Gabriel £8.0 (not £6.5!)** ·
+Rogers £7.5 · VVD £6.5 (banned) · Raya £6.0 · Gvardiol £5.5 · Calafiori £5.5 ·
+Muñoz (Palace) £5.5 · Sels £5.0 · Robertson (Spurs) £4.5
+
+## Corrections found via live data (2026-08-20)
+
+- **Cucurella: LEFT the Premier League** — not in the 2026/27 player list.
+- **Chris Wood: only 766 mins / 37 pts in 2025-26**; £6.0 now, 1.8% owned.
+  Igor Jesus (£6.0) looks like Forest's starting striker. Avoid Wood until
+  he's starting again.
+- **Frimpong and Ngumoha are at Liverpool** — banned (add to Rule 1 list).
+- Calvert-Lewin now at Leeds (£6.0, 29% owned — template budget FWD).
+- Guéhi and O'Reilly now at Man City.
+- Kelleher is at Brentford (£5.0) — NOT Liverpool, pickable.
+
+## Live data source (use this every week)
+
+Local clone: `/home/user/olbauday/fpl-core-insights` (public repo
+`olbauday/FPL-Core-Insights`, auto-refreshed 07:30 & 17:30 UTC).
+Before advising, run `git -C /home/user/olbauday/fpl-core-insights pull`
+(re-clone in a fresh session) and read `data/2026-2027/players.csv` +
+`playerstats.csv` (join `player_id`↔`id`; `now_cost` is in £m; `status`/
+`chance_of_playing_next_round` carry injury flags) and `teams.csv` for clubs.
+This overrides web-search estimates AND everything above if they conflict.
