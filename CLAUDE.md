@@ -20,3 +20,10 @@ This list goes stale; always re-verify against current-season sources.
   (user request — includes Watkins, Cash, Martínez, Konsa, etc.
   NOT Morgan Rogers — he moved to Chelsea in summer 2026, £7.5m MID).
   Villa players are allowed again from GW2 onwards unless the user says otherwise.
+
+## Verified club moves (2026/27 season)
+
+The 2025-26 data in this repo predates these transfers — don't trust its club info:
+
+- Morgan Rogers: Aston Villa → Chelsea (summer 2026, £117m; £7.5m MID)
+- Antoine Semenyo: Bournemouth → Man City (Jan 2026, £64m; £8.5m MID)
