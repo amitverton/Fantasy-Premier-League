@@ -17,5 +17,6 @@ This list goes stale; always re-verify against current-season sources.
 ## Week-specific notes (temporary, check dates)
 
 - **GW1 2026/27 (deadline Fri 21 Aug 2026):** No Aston Villa players this week
-  (user request — includes Watkins, Rogers, Cash, Martínez, Konsa, etc.).
+  (user request — includes Watkins, Cash, Martínez, Konsa, etc.
+  NOT Morgan Rogers — he moved to Chelsea in summer 2026, £7.5m MID).
   Villa players are allowed again from GW2 onwards unless the user says otherwise.
