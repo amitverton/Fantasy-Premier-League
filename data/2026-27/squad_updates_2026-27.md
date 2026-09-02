@@ -78,3 +78,18 @@ Before advising, run `git -C /home/user/olbauday/fpl-core-insights pull`
 `playerstats.csv` (join `player_id`↔`id`; `now_cost` is in £m; `status`/
 `chance_of_playing_next_round` carry injury flags) and `teams.csv` for clubs.
 This overrides web-search estimates AND everything above if they conflict.
+
+## Deadline day (1 Sep 2026) — verified 2 Sep vs live data + press
+
+- Liverpool SIGNED Barcola (£107m, £8.0m MID) → added to ban list. Woodman (GK £4.0) also Liverpool.
+- Enzo Fernández: Chelsea → Man City (£125m). City midfield now stacked
+  (Enzo + Elliot Anderson + Bouaddi arrived) — Semenyo minutes risk UP, watch.
+- Iliman Ndiaye: Everton → Man City (£65m) — was our planned Semenyo→Ndiaye
+  funder for the GW4 Bruno route; plan needs a new £6.0m mid target.
+  Also weakens Everton's attack (Pickford's club).
+- Arsenal signed Bruno Guimarães (Newcastle) + Konsa (Villa) — stronger base,
+  good for Calafiori/Saka clean sheets.
+- Man Utd signed Baleba, Andrey Santos, Tielemans — B.Fernandes stays nailed.
+- Hull made SIX deadline signings — Slater's starting spot at risk, check
+  GW3 team news before fielding him.
+- Our 15: no moves, no flags (checked 2 Sep 12:14 UTC refresh).

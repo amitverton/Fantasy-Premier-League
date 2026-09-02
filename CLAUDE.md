@@ -13,7 +13,8 @@ players in and out of Liverpool every window. Verified 2026-08-20, the full
 banned list: Wirtz, Isak, Szoboszlai, Gravenberch, Mac Allister, Jones,
 Elliott, Chiesa, Ekitike, Gakpo, Van Dijk, Kerkez, Bradley, Tsimikas, Leoni,
 Jacquet (new), Araujo (new, loan), Victor Muñoz (new — NOT Palace's Daniel
-Muñoz), Frimpong, Ngumoha, Alisson, Mamardashvili.
+Muñoz), Frimpong, Ngumoha, Alisson, Mamardashvili, Barcola (deadline-day,
+£107m from PSG, £8.0m MID), Woodman (GK).
 
 Authoritative check: the FPL-Core-Insights dataset (see
 data/2026-27/squad_updates_2026-27.md, 'Live data source') lists every
@@ -29,8 +30,9 @@ This list goes stale; always re-verify against current-season sources.
 
 - **EXPIRED (GW1 only):** the no-Aston-Villa restriction applied to GW1 2026/27
   only. Villa players are pickable again from GW2 onwards.
-- GW1 result: 64 pts (avg 48). Squad healthy. GW2 deadline: Fri 28 Aug 2026
-  ~18:30 BST (Palace v Man City opens the round that evening).
+- GW1: 64 pts (avg 48). GW2: 89 pts (avg 66) — 153 total vs 114 avg. 2 FTs banked.
+- Transfer window CLOSED 1 Sep 2026. Post-window verification done 2 Sep:
+  all 15 squad players at expected clubs, none flagged. See squad_updates log.
 
 ## Verified club moves (2026/27 season)
 
