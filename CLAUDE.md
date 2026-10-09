@@ -30,9 +30,18 @@ This list goes stale; always re-verify against current-season sources.
 
 - **EXPIRED (GW1 only):** the no-Aston-Villa restriction applied to GW1 2026/27
   only. Villa players are pickable again from GW2 onwards.
-- GW1: 64 pts (avg 48). GW2: 89 pts (avg 66) — 153 total vs 114 avg. 2 FTs banked.
-- Transfer window CLOSED 1 Sep 2026. Post-window verification done 2 Sep:
-  all 15 squad players at expected clubs, none flagged. See squad_updates log.
+- Scores vs avg: GW1 64/48, GW2 89/66, GW3 59/51, GW4 78/63, GW5 ~56/44
+  (GW5 deadline missed; rolled team still beat avg). ~346 vs ~272 after GW5.
+- GW6 (10 Oct) transfers: João Pedro→Kostoulas (knee, out ~weeks),
+  Walle Egeli→Emersonn, Diop→Bogle. 2 FTs left, ~£0.4 ITB.
+- Current 15: Pickford, Lammens; Calafiori, Gvardiol, Shaw, Bogle, Robertson;
+  Saka, Semenyo, Rogers, Mbeumo, Slater; Haaland, Kostoulas, Emersonn.
+- Transfer window CLOSED 1 Sep 2026; post-window club verification done 2 Sep.
+- Lessons learned: verify starters via pre-season/minutes data (Wood, Kusi-Asare,
+  Robertson); check scoring breakdowns, don't infer (City CS error); first bench
+  sub = most likely starter (GW5 Robertson 7 pts lost); lead every brief with
+  the deadline (GW5 missed); user's corrections usually check out — verify, then
+  update (Rogers, Semenyo, Shaw, Semenyo-at-Anfield).
 
 ## Verified club moves (2026/27 season)
 
