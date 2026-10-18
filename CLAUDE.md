@@ -43,6 +43,17 @@ This list goes stale; always re-verify against current-season sources.
   the deadline (GW5 missed); user's corrections usually check out — verify, then
   update (Rogers, Semenyo, Shaw, Semenyo-at-Anfield).
 
+## Watchlist (user-flagged + data-confirmed)
+
+- **Konsa (Arsenal, £4.6, user-flagged 18 Oct):** started last 3 league games
+  (90/90/69 mins, pts 1/4/9). Prime Shaw→Konsa upgrade for ~£0.3. Before buying:
+  verify he's WON the spot, not keeping it warm for an injured returnee.
+- GW7: TC Haaland = 39 pts (13×3 v Ipswich). Week ~76 vs 55. Season ~472 vs ~385.
+- Pep rotation warning: Gvardiol (29 min) AND Semenyo (13 min) benched GW7 —
+  City congestion is real; check City team news weekly.
+- Chips left (expire GW19 deadline, 2 Jan): Bench Boost, Wildcard, Free Hit.
+  4 FTs banked after GW7.
+
 ## Verified club moves (2026/27 season)
 
 The 2025-26 data in this repo predates these transfers — don't trust its club info:
