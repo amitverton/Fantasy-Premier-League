@@ -32,10 +32,12 @@ This list goes stale; always re-verify against current-season sources.
   only. Villa players are pickable again from GW2 onwards.
 - Scores vs avg: GW1 64/48, GW2 89/66, GW3 59/51, GW4 78/63, GW5 ~56/44
   (GW5 deadline missed; rolled team still beat avg). ~346 vs ~272 after GW5.
-- GW6 (10 Oct) transfers: João Pedro→Kostoulas (knee, out ~weeks),
-  Walle Egeli→Emersonn, Diop→Bogle. 2 FTs left, ~£0.4 ITB.
-- Current 15: Pickford, Lammens; Calafiori, Gvardiol, Shaw, Bogle, Robertson;
-  Saka, Semenyo, Rogers, Mbeumo, Slater; Haaland, Kostoulas, Emersonn.
+- GW6 transfers: João Pedro→Kostoulas, Egeli→Emersonn, Diop→Bogle.
+- GW8 (19 Oct, pre-price-drop): Semenyo→Neto (Semenyo OUT ~8 wks, knee,
+  official), Shaw→Konsa. 2 FTs left, ~£2.1 ITB (earmarked: Kostoulas→João
+  Pedro route if Kostoulas cools; JP ~£7.8, back for GW8 v Spurs).
+- Current 15: Pickford, Lammens; Calafiori, Gvardiol, Konsa, Bogle, Robertson;
+  Saka, Neto, Rogers, Mbeumo, Slater; Haaland, Kostoulas, Emersonn.
 - Transfer window CLOSED 1 Sep 2026; post-window club verification done 2 Sep.
 - Lessons learned: verify starters via pre-season/minutes data (Wood, Kusi-Asare,
   Robertson); check scoring breakdowns, don't infer (City CS error); first bench
@@ -45,9 +47,14 @@ This list goes stale; always re-verify against current-season sources.
 
 ## Watchlist (user-flagged + data-confirmed)
 
-- **Konsa (Arsenal, £4.6, user-flagged 18 Oct):** started last 3 league games
-  (90/90/69 mins, pts 1/4/9). Prime Shaw→Konsa upgrade for ~£0.3. Before buying:
-  verify he's WON the spot, not keeping it warm for an injured returnee.
+- Konsa: BOUGHT 19 Oct (user-flagged, verified 4 straight starts).
+- **Forest (user-flagged 19 Oct): biggest xG underperformers** — 5 goals from
+  12.2 xG, −6 GD on +1.7 xGD. Regression candidates. Defence first
+  (N.Williams £5.0, Murillo £5.5 — xGA solid); attack punt Ndoye £5.5.
+  Natural slot: Slater's, if Forest fixtures turn kind.
+- Tavernier (Bournemouth £6.2, 42 pts, nailed): Slater-slot candidate.
+- Groß (Brighton £6.1, 58 pts): right player, wrong week (Anfield GW8) —
+  revisit when Brighton fixtures turn.
 - GW7: TC Haaland = 39 pts (13×3 v Ipswich). Week ~76 vs 55. Season ~472 vs ~385.
 - Pep rotation warning: Gvardiol (29 min) AND Semenyo (13 min) benched GW7 —
   City congestion is real; check City team news weekly.
