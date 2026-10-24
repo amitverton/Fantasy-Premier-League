@@ -45,6 +45,15 @@ This list goes stale; always re-verify against current-season sources.
   the deadline (GW5 missed); user's corrections usually check out — verify, then
   update (Rogers, Semenyo, Shaw, Semenyo-at-Anfield).
 
+## URGENT — early GW9 action (logged 24 Oct)
+
+- **Saka OUT ~6 weeks** (injured GW8 week, user-reported). SELL EARLY next
+  week (Mon/Tue) before price drops — same play as the Semenyo sale.
+  Budget: Saka sells ~£9.5-9.6 + ~£1.9 bank = ~£11.5 for the replacement.
+  Build shortlist with GW9+ fixtures: premium mid (Palmer? Bruno? — verify
+  clubs/flags first) or mid + bank split. Mbeumo is ManU 2/3, Bruno legal.
+  Check Konsa auto-sub worked for GW8 before assuming score.
+
 ## Watchlist (user-flagged + data-confirmed)
 
 - Konsa: BOUGHT 19 Oct (user-flagged, verified 4 straight starts).
