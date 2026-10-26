@@ -45,14 +45,17 @@ This list goes stale; always re-verify against current-season sources.
   the deadline (GW5 missed); user's corrections usually check out — verify, then
   update (Rogers, Semenyo, Shaw, Semenyo-at-Anfield).
 
-## URGENT — early GW9 action (logged 24 Oct)
-
-- **Saka OUT ~6 weeks** (injured GW8 week, user-reported). SELL EARLY next
-  week (Mon/Tue) before price drops — same play as the Semenyo sale.
-  Budget: Saka sells ~£9.5-9.6 + ~£1.9 bank = ~£11.5 for the replacement.
-  Build shortlist with GW9+ fixtures: premium mid (Palmer? Bruno? — verify
-  clubs/flags first) or mid + bank split. Mbeumo is ManU 2/3, Bruno legal.
-  Check Konsa auto-sub worked for GW8 before assuming score.
+- GW8 result: 48 vs 45 (7 of 8 above avg). Saka ruled out pre-match →
+  Konsa auto-subbed, scored 14 (same-game insurance worked as designed).
+- GW9 transfers (done 26 Oct, early, price-driven): Saka (OUT ~6wks, status i)
+  → Cherki £8.0; Slater → Tavernier £6.3 (back-to-back 10s, 100:1 buy ratio,
+  user-called the rise). ~£1.6 ITB, 0 FTs this week (+1 accrues).
+- Current 15: Pickford, Lammens; Calafiori(75% flag), Gvardiol, Konsa, Bogle,
+  Robertson; Cherki, Neto, Rogers, Mbeumo, Tavernier; Haaland, Kostoulas, Emersonn.
+- GW9: Sat 31 Oct, deadline 11:00. CHE v MUN 12:30; MCI v BHA (Haaland C,
+  home); Arsenal AT Liverpool Sun (Calafiori flag + Konsa — tough);
+  NEW v EVE Mon. Premium mids all cold (Bruno form 0.7, Palmer 3.0) —
+  that's why Saka money went to Cherki + bank.
 
 ## Watchlist (user-flagged + data-confirmed)
 
