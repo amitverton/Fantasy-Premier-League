@@ -50,8 +50,15 @@ This list goes stale; always re-verify against current-season sources.
 - GW9 transfers (done 26 Oct, early, price-driven): Saka (OUT ~6wks, status i)
   → Cherki £8.0; Slater → Tavernier £6.3 (back-to-back 10s, 100:1 buy ratio,
   user-called the rise). ~£1.6 ITB, 0 FTs this week (+1 accrues).
-- Current 15: Pickford, Lammens; Calafiori(75% flag), Gvardiol, Konsa, Bogle,
-  Robertson; Cherki, Neto, Rogers, Mbeumo, Tavernier; Haaland, Kostoulas, Emersonn.
+- 3rd GW9 transfer (30 Oct): Emersonn→Barry £5.6 (best xG/90 ≤£7.4: 0.67,
+  underscoring — user's Everton striker). ~£1.5 ITB, 0 FTs (+1 accrues GW10).
+- Current 15: Pickford, Lammens; Calafiori(75%), Gvardiol, Konsa, Bogle,
+  Robertson; Cherki, Neto, Rogers, Mbeumo, Tavernier; Haaland, Kostoulas, Barry.
+- GW9 XI set (3-5-2): Barry started over Konsa (user's upside call), Haaland C,
+  Tavernier VC, bench Lammens/Konsa/Kostoulas/Calafiori.
+- NEXT UP: schedule Bench Boost / Wildcard / Free Hit before 2 Jan expiry —
+  bench is now all-playable (BB viable); revisit Kostoulas→João Pedro (his xG
+  0.37/90 is thin); Robertson re-established at Spurs LB (3 starts in 4).
 - GW9: Sat 31 Oct, deadline 11:00. CHE v MUN 12:30; MCI v BHA (Haaland C,
   home); Arsenal AT Liverpool Sun (Calafiori flag + Konsa — tough);
   NEW v EVE Mon. Premium mids all cold (Bruno form 0.7, Palmer 3.0) —
