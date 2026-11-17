@@ -61,7 +61,7 @@ This list goes stale; always re-verify against current-season sources.
   still unrecorded — ask user when convenient.)
 - User transferred (solo, during break): Kostoulas → N.Jackson (Villa FWD,
   £7.1, form 11.0) — verified, excellent. Current 15: Pickford, Lammens;
-  Konsa, Calafiori, Gvardiol(75%, form 1.0, Pep-rotation victim), Bogle,
+  Konsa, Calafiori, Gvardiol(75%, form 1.0, Maresca-rotation victim), Bogle,
   Robertson; Cherki, Neto, Rogers, Mbeumo, Tavernier; Haaland, Barry, Jackson.
 - GW11 (deadline Sat 21 Nov 11:00) set: XI Pickford; Konsa, Calafiori,
   Robertson(H IPS); Neto, Rogers, Cherki(H FUL), Tavernier; Haaland(C, H FUL),
@@ -87,8 +87,11 @@ This list goes stale; always re-verify against current-season sources.
 - Groß (Brighton £6.1, 58 pts): right player, wrong week (Anfield GW8) —
   revisit when Brighton fixtures turn.
 - GW7: TC Haaland = 39 pts (13×3 v Ipswich). Week ~76 vs 55. Season ~472 vs ~385.
-- Pep rotation warning: Gvardiol (29 min) AND Semenyo (13 min) benched GW7 —
-  City congestion is real; check City team news weekly.
+- City rotation warning (manager is ENZO MARESCA, succeeded Guardiola
+  29 Jun 2026 — stop writing "Pep"): Gvardiol and Semenyo benched GW7,
+  Gvardiol frozen out by GW10-11. Check City team news weekly.
+- Managers verified: Man City = Maresca; Chelsea = Xabi Alonso;
+  Liverpool = Iraola; Man Utd = Carrick. Re-verify before attributing quotes.
 - Chips left (expire GW19 deadline, 2 Jan): Bench Boost, Wildcard, Free Hit.
   4 FTs banked after GW7.
 
