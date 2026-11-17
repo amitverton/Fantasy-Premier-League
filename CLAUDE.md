@@ -56,9 +56,21 @@ This list goes stale; always re-verify against current-season sources.
   Robertson; Cherki, Neto, Rogers, Mbeumo, Tavernier; Haaland, Kostoulas, Barry.
 - GW9 XI set (3-5-2): Barry started over Konsa (user's upside call), Haaland C,
   Tavernier VC, bench Lammens/Konsa/Kostoulas/Calafiori.
-- NEXT UP: schedule Bench Boost / Wildcard / Free Hit before 2 Jan expiry —
-  bench is now all-playable (BB viable); revisit Kostoulas→João Pedro (his xG
-  0.37/90 is thin); Robertson re-established at Spurs LB (3 starts in 4).
+- GW10: 56 vs 55. Barry(V) 16, Jackson 11, Konsa 8; Haaland (C) 2 raw —
+  2nd quiet week (form 4.0). Cherki 9 + Bogle 7 stranded on bench. (GW9 score
+  still unrecorded — ask user when convenient.)
+- User transferred (solo, during break): Kostoulas → N.Jackson (Villa FWD,
+  £7.1, form 11.0) — verified, excellent. Current 15: Pickford, Lammens;
+  Konsa, Calafiori, Gvardiol(75%, form 1.0, Pep-rotation victim), Bogle,
+  Robertson; Cherki, Neto, Rogers, Mbeumo, Tavernier; Haaland, Barry, Jackson.
+- GW11 (deadline Sat 21 Nov 11:00) set: XI Pickford; Konsa, Calafiori,
+  Robertson(H IPS); Neto, Rogers, Cherki(H FUL), Tavernier; Haaland(C, H FUL),
+  Barry, Jackson(VC, H SUN). Bench Gvardiol, Mbeumo(at LIV), Bogle.
+- CHIP CLOCK: BB/WC/FH expire GW19 deadline (2 Jan) — 9 deadlines left.
+  Plan: WC ~GW13-14 (fix Gvardiol/Mbeumo, build December squad), BB the week
+  after, FH for worst remaining week. Map December fixtures next session.
+- Captaincy watch: if Haaland blanks a 3rd straight week, Jackson/Barry
+  become legitimate captain options (their form 11.0/9.0).
 - GW9: Sat 31 Oct, deadline 11:00. CHE v MUN 12:30; MCI v BHA (Haaland C,
   home); Arsenal AT Liverpool Sun (Calafiori flag + Konsa — tough);
   NEW v EVE Mon. Premium mids all cold (Bruno form 0.7, Palmer 3.0) —
