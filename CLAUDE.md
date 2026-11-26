@@ -69,8 +69,18 @@ This list goes stale; always re-verify against current-season sources.
 - CHIP CLOCK: BB/WC/FH expire GW19 deadline (2 Jan) — 9 deadlines left.
   Plan: WC ~GW13-14 (fix Gvardiol/Mbeumo, build December squad), BB the week
   after, FH for worst remaining week. Map December fixtures next session.
-- Captaincy watch: if Haaland blanks a 3rd straight week, Jackson/Barry
-  become legitimate captain options (their form 11.0/9.0).
+- GW11: 27 vs 35 — season's first big miss (9 of 11 above avg). Haaland (C)
+  3rd straight blank (2 raw) → captaincy rule TRIGGERED.
+- GW12 (deadline Fri 27 Nov 18:30) plan: transfers Gvardiol→Van Hecke £5.2
+  (form 8.3) + Mbeumo→Ødegaard £6.7 (ARS H v MCI); ~£1.3 ITB after.
+  CAPTAIN JACKSON (A at Ipswich), Haaland VC uncaptained at Arsenal.
+  XI 4-3-3: Pickford; Konsa, Calafiori, Bogle, Van Hecke; Ødegaard, Tavernier,
+  Rogers; Haaland, Barry, Jackson(C). Bench Lammens, Neto, Cherki, Robertson.
+- WILDCARD: GW13-14, built over days not hours. Big WC question: keep Haaland
+  (£15.8, form 4.0, 78.8% owned, Maresca-era City wobbling — Forest 3-1 loss)?
+  WC shortlist from form tables: Vuskovic (BHA £5.3, 70pts), Van Hecke, Hill,
+  Evanilson (£6.6, 67pts, form 8.0), Trafford GK £5.0, Le Fée, Muharemović.
+  Then BENCH BOOST week after WC. FREE HIT for worst week ≤GW19. All die 2 Jan.
 - GW9: Sat 31 Oct, deadline 11:00. CHE v MUN 12:30; MCI v BHA (Haaland C,
   home); Arsenal AT Liverpool Sun (Calafiori flag + Konsa — tough);
   NEW v EVE Mon. Premium mids all cold (Bruno form 0.7, Palmer 3.0) —
