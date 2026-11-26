@@ -71,11 +71,14 @@ This list goes stale; always re-verify against current-season sources.
   after, FH for worst remaining week. Map December fixtures next session.
 - GW11: 27 vs 35 — season's first big miss (9 of 11 above avg). Haaland (C)
   3rd straight blank (2 raw) → captaincy rule TRIGGERED.
-- GW12 (deadline Fri 27 Nov 18:30) plan: transfers Gvardiol→Van Hecke £5.2
-  (form 8.3) + Mbeumo→Ødegaard £6.7 (ARS H v MCI); ~£1.3 ITB after.
+- GW12 (deadline Fri 27 Nov 18:30) REVISED (user caught the flaw): ONE
+  transfer only — Gvardiol→Van Hecke £5.2. Mbeumo KEPT (home v Brentford
+  beats Ødegaard-v-City this week; pre-WC transfers must pay immediately).
+  Ødegaard → WC draft candidate instead. Roll 2nd FT (FTs survive wildcard).
   CAPTAIN JACKSON (A at Ipswich), Haaland VC uncaptained at Arsenal.
-  XI 4-3-3: Pickford; Konsa, Calafiori, Bogle, Van Hecke; Ødegaard, Tavernier,
-  Rogers; Haaland, Barry, Jackson(C). Bench Lammens, Neto, Cherki, Robertson.
+  XI 4-3-3: Pickford; Konsa, Calafiori, Bogle, Van Hecke; Tavernier, Rogers,
+  Mbeumo; Haaland, Barry, Jackson(C). Bench Lammens, Neto, Cherki, Robertson.
+  LESSON: before a planned wildcard, only make transfers that pay THIS week.
 - WILDCARD: GW13-14, built over days not hours. Big WC question: keep Haaland
   (£15.8, form 4.0, 78.8% owned, Maresca-era City wobbling — Forest 3-1 loss)?
   WC shortlist from form tables: Vuskovic (BHA £5.3, 70pts), Van Hecke, Hill,
