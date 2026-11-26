@@ -114,3 +114,5 @@ The 2025-26 data in this repo predates these transfers — don't trust its club 
 
 - Morgan Rogers: Aston Villa → Chelsea (summer 2026, £117m; £7.5m MID)
 - Antoine Semenyo: Bournemouth → Man City (Jan 2026, £64m; £8.5m MID)
+- Jan Paul van Hecke: Brighton → Spurs (18 Jun 2026, £52m; £5.2m DEF —
+  reunited with De Zerbi; verified 26 Nov before purchase)
